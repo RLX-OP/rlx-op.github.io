@@ -138,8 +138,7 @@ let footer = $(`
                   <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
                   <textarea name="field3" placeholder="Type your Message" required></textarea>
-                  <input type="hidden" name="_gotcha">
-                  <input type="submit" value="Send" />
+                  <input type="submit" value="Send">
                 </form>
              </div>
           </div>
