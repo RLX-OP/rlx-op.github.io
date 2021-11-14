@@ -134,10 +134,10 @@ let footer = $(`
               </div>
                 <form>
                   <form action="https://formcarry.com/s/nHfogoxv8-O" method="POST" accept-charset="UTF-8" >
-                  <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
                   <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
-                  <textarea name="field3" placeholder="Type your Message" required></textarea>
+                  <input type="message" name="field3" placeholder="Type your Message"  required/>
+                  <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
                   <input type="submit" value="Send">
                   <input type="hidden" name="_gotcha">
                 </form>
