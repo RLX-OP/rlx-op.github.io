@@ -133,7 +133,7 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <form>
-                  <form action="https://formcarry.com/s/nHfogoxv8-O" method="POST" enctype="multipart/form-data" accept-charset="UTF-8">
+                  <form action="https://formcarry.com/s/nHfogoxv8-O" method="POST" accept-charset="UTF-8" >
                   <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
                   <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
