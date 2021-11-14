@@ -137,9 +137,9 @@ let footer = $(`
                   <input type="email" name="field2" placeholder="Email Address"  required/>
                   <textarea name="field3" placeholder="Type your Message" required></textarea>
                   <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
-                  <input type="submit" value="Send">
                   <input type="hidden" name="_gotcha">
                   <input type="hidden" name="_next" value="https://rlx-op.github.io/rlx/">
+                  <input type="submit" value="Send">
                 </form>
              </div>
           </div>
