@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
-  let attentionMessage = "Come back";
+  let attentionMessage = "RLX | Come back";
 
   document.addEventListener("visibilitychange", function (e) {
     let isPageActive = !document.hidden;
@@ -16,17 +16,17 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./../../rlx.jpg";
+      favicon.href = "/../../rlx.jpg";
     }
   });
 
   function toggle() {
     if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./../../rlx.jpg";
+        favicon.href = "/../../rlx.jpg";
     } else {
         document.title = attentionMessage;
-        favicon.href = "./../../rlx.jpg";
+        favicon.href = "/../../rlx.jpg";
     }
   }   
 };
