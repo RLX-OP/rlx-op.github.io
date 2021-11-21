@@ -139,7 +139,7 @@ let footer = $(`
                   <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
                   <input type="hidden" name="_gotcha">
                   <input type="hidden" name="_next" value="https://rlx-op.github.io/rlx/">
-                  <input type="submit" value="Send">
+                  <input type="submit" value="Submit">
                 </form>
              </div>
           </div>
