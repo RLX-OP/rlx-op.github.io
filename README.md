@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/RLX-OP/website">
+  <a href="https://github.com/RLX-OP/rlx-op.github.io">
     <img src="https://rlx-op.github.io/website/assets/images/rlx.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
@@ -8,9 +8,9 @@
   Advanced Portfolio Website
   <br />
   <br />
-  <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/RLX-OP/rlx-op.github.io/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=enhancement&title=request%3A+">Request a Feature</a>
+  <a href="https://github.com/RLX-OP/rlx-op.github.io/issues/new?assignees=&labels=enhancement&title=request%3A+">Request a Feature</a>
   ·
   <br />
     <img src="https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-RLX-ff1414.svg?style=flat-square" alt="By_RLX">
@@ -20,7 +20,7 @@
 <div align="center">
   Website
   <br />
-  <a href="https://rlx-op.github.io/website">Click me to view the website!</a>
+  <a href="https://rlx-op.github.io/RLX-OP.github.io">Click me to view the website!</a>
 </div>
   <br />
 <div align="center">
