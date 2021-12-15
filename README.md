@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  Amazing GitHub Template - Sane defaults for your next project!
+  Advanced Portfolio Website
   <br />
   <br />
   <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
