@@ -12,6 +12,7 @@
   ·
   <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=enhancement&title=request%3A+">Request a Feature</a>
 </div>
+  <br />
 
 <div align="center">
   Website
