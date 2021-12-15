@@ -11,7 +11,8 @@
   <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
   ·
   <a href="https://github.com/RLX-OP/website/issues/new?assignees=&labels=enhancement&title=request%3A+">Request a Feature</a>
-  .
+  ·
+  <br />
     <img src="https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-RLX-ff1414.svg?style=flat-square" alt="By_RLX">
 </div>
   <br />
