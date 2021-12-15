@@ -19,7 +19,7 @@
   <br />
   <a href="https://rlx-op.github.io/website">Click me to view the website!</a>
 </div>
-
+</div>
 <div align="center">
     Previews
 <br />
