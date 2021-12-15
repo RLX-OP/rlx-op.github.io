@@ -24,7 +24,6 @@
     Previews
 <br />
 <br />
-    <img src="https://youtube.com/added/cuz/this/dosent/work/i'm/testing"">
-![dark-mode](https://user-images.githubusercontent.com/82745607/146182518-485c245a-aba6-43b1-b749-61c84fb7fa64.png)
-![light-mode](https://user-images.githubusercontent.com/82745607/146182607-e9c54143-f1b1-41e2-b366-b114a9bd84b4.png)
+    <img src="https://user-images.githubusercontent.com/82745607/146182518-485c245a-aba6-43b1-b749-61c84fb7fa64.png" alt="Dark_mode">
+    <img src="https://user-images.githubusercontent.com/82745607/146182607-e9c54143-f1b1-41e2-b366-b114a9bd84b4.png" alt="Light_mode">
 </div>
