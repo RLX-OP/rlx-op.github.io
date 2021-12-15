@@ -15,13 +15,11 @@
 
 <div align="center">
   Website
-  <br />
-  <br />
   <a href="https://rlx-op.github.io/website">Click me to view the website!</a>
 </div>
-</div>
+  <br />
 <div align="center">
-    Previews
+    Website Previews -
 <br />
 <br />
     <img src="https://user-images.githubusercontent.com/82745607/146182518-485c245a-aba6-43b1-b749-61c84fb7fa64.png" alt="Dark_mode">
