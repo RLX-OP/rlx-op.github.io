@@ -20,7 +20,7 @@
 <div align="center">
   Website
   <br />
-  <a href="https://rlx-op.github.io/RLX-OP.github.io/website/">Click me to view the website!</a>
+  <a href="https://rlx-op.github.io/website/">Click me to view the website!</a>
 </div>
   <br />
 <div align="center">
