@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/RLX-OP/rlx-op.github.io">
+  <a href="https://github.com/RLX-OP/website.git">
     <img src="https://rlx-op.github.io/website/assets/images/rlx.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
