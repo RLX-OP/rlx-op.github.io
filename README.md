@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/RLX-OP/website.git">
-    <img src="https://rlx-op.github.io/website/assets/images/rlx.png" alt="Logo" width="125" height="125">
+    <img src="https://rlx-op.github.io/rlx-op.github.io/assets/images/rlx.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@
 <div align="center">
   Website
   <br />
-  <a href="https://rlx-op.github.io/website/">Click me to view the website!</a>
+  <a href="https://rlx-op.github.io/">Click me to view the website!</a>
 </div>
   <br />
 <div align="center">
