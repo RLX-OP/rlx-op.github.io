@@ -132,10 +132,10 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                  <form action="https://formcarry.com/s/nHfogoxv8-O" method="POST" accept-charset="UTF-8">
-                  <input type="text" name="field1" placeholder="Your Name" required/>
-                  <input type="email" name="field2" placeholder="Email Address"  required/>
-                  <textarea name="field3" placeholder="Type your Message" required></textarea>
+                  <form action="https://formcarry.com/s/mciCaAhIe7c" method="POST" accept-charset="UTF-8">
+                  <input type="text" name="name" placeholder="Your Name" required/>
+                  <input type="email" name="email" placeholder="Email Address"  required/>
+                  <textarea name="message" placeholder="Type your Message" required></textarea>
                   <div class="g-recaptcha" data-sitekey="6LePxjIdAAAAAGfVx1qqc7tYylsiYra5_hOinsao"></div>
                   <input type="hidden" name="_gotcha">
                   <input type="hidden" name="_next" value="https://rlx-op.github.io/rlx/">
