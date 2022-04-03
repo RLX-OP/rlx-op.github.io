@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} !^rlx.is-a.dev$ [NC]
+RewriteRule ^(.*)$ http://www.rlx.is-a.dev/$1 [L,R=301]
